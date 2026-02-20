@@ -1,0 +1,9 @@
+// fyrsta verkefni
+// main branch
+// nýtt branch
+// pull request
+
+public class timaverkefni1
+{ 
+    println("hallo heimur");
+}
