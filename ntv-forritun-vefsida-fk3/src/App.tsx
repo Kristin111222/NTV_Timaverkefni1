@@ -3,6 +3,11 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
+/* 
+  Vefsíða þar sem hægt er að setja inn nafn og email og ýta á submit takka
+  sem sýnir textann submitted.
+*/
+
 function App() {
   const [myName, setMyName] = useState('Kristin')
   const [email, setEmail] = useState('')
